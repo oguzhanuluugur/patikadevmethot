@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\bin\Debug\net5.0\Classlar.exe
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\bin\Debug\net5.0\Classlar.deps.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\bin\Debug\net5.0\Classlar.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\bin\Debug\net5.0\Classlar.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\bin\Debug\net5.0\Classlar.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\bin\Debug\net5.0\ref\Classlar.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\bin\Debug\net5.0\Classlar.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\obj\Debug\net5.0\Classlar.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\obj\Debug\net5.0\Classlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\obj\Debug\net5.0\Classlar.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\obj\Debug\net5.0\Classlar.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\obj\Debug\net5.0\Classlar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\obj\Debug\net5.0\Classlar.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\obj\Debug\net5.0\ref\Classlar.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\obj\Debug\net5.0\Classlar.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\Classlar\obj\Debug\net5.0\Classlar.genruntimeconfig.cache
